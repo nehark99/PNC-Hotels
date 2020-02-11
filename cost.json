@@ -1,0 +1,8 @@
+[
+    {"room_type":"Garden View","room_season":"low season","room_price":100},
+    {"room_type":"Garden View","room_season":"high season","room_price":200},
+    {"room_type":"Street View","room_season":"low season","room_price":45},
+    {"room_type":"Street View","room_season":"high season","room_price":90},
+    {"room_type":"Ocean View","room_season":"low season","room_price":250},
+    {"room_type":"Ocean View","room_season":"high season","room_price":500},
+]

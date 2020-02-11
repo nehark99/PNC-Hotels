@@ -37,21 +37,8 @@ xmlhttp.send();
 	<span id="details" ></span>
 <?php
 
-/*
-
-VIEW.PHP
-
-Displays all data from 'players' table
-
-*/
-
-
-
-// connect to the database
 
 include('connectdb.php');
-
-
 
 // get results from database
 
@@ -62,8 +49,6 @@ or die(mysqli_error($con));
 
 
 // display data in table
-
-// echo "<p><b>View All</b> | <a href='view-paginated.php?page=1'>View Paginated</a></p>";
 
 
 echo "<div class='table-users'>";

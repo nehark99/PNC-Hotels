@@ -126,7 +126,8 @@
 							and a local experience with the assurance of quality. </p>
 							
 							<span>For more information about our Hotel, <br>Call 1800-PNC-789</span>
-						</div>
+						</div> 
+						
 						<div class="content-box-left-bootomgrids">
 							<div class="content-box-left-bootomgrid">
 								<h3>Deluxe Rooms</h3>
@@ -134,7 +135,7 @@
 								<a href="#"><img src="images/slider1.jpg" title="image-name" /></a>
 							</div>
 							<div class="content-box-left-bootomgrid">
-								<h3>Luxury Rooms</h3>
+								<h3>Luxury Rooms</h3> 
 								<p><!---desc---></p>
 								<a href="#"><img src="images/slider2.jpg" title="image-name" /></a>
 							</div>
@@ -148,16 +149,19 @@
 						<div class="clear"> </div>
 					</div>
 					<div class="content-box-right">
-						<div class="content-box-right-topgrid">
+					<div class="content-box-right-topgrid">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.1124825456054!2d78.4829253152879!3d10.570370265852494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa7b135ad715b5%3A0xa51ac287e997f8bb!2sPNC%20Hotel!5e0!3m2!1sen!2sin!4v1581350269418!5m2!1sen!2sin" 
+							width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="">
+							</iframe>
+						</div>
+						<div class="content-box-right-bottomgrid">
 							<h3>Today's Specials</h3>
 							<a href="#"><img src="images/slider1.jpg" title="imnage-name" /></a>
 							<h4>Super Discount Offer</h4>
 							<p><!---desc---></p>
 							<a href="#">Read More</a>
 						</div>
-						<div class="content-box-right-bottomgrid">
-							
-						</div>
+						
 					</div>
 					<div class="clear"> </div>
 				</div>
